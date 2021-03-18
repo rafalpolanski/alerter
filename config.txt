@@ -1,0 +1,11 @@
+[INI]
+miner_identifier = _RAF1
+log_dir = /Users/rafalpolanski/
+n_ppl_to_notify = 2
+e_1 = rafalapolanski@gmail.com
+e_2 = fila.marek@gmail.com
+
+[DATA]
+dat1 =
+dat2 =
+dat3 =
